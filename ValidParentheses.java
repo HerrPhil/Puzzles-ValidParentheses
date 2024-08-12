@@ -18,9 +18,10 @@ public class ValidParentheses {
 //        String input = "[{(()){}}]";
 //        String input = "[(])";
 //        String input = "{[1,2,3](a,b,c),?}";
-        String input = "())))";
+//        String input = "())))";
 //        String input = "(((()";
 //        String input = "}(())";
+        String input = "[)(]";
         
         ValidParentheses validParentheses = new ValidParentheses(input);
 
